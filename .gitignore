@@ -1,0 +1,13 @@
+2D_HANDS_ASL
+2D_HANDS_FACE_ASL
+3D_HANDS_ASL
+3D_HANDS_FACE_ASL
+__pycache__/
+node_modules/
+ASL_JSON/
+2d_videos/
+3d_videos/
+videos/
+WLASL_300/
+ASL_JSON/
+.DS_Store
