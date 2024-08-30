@@ -2,7 +2,7 @@
 
 ![EgocentricASL Video Example](./Assets/EgocentricQuadMin.gif)
 
-This project is focused on converting ASL instructional videos into a series of keypoints that are modified to be from the user's perspective. Read more about it in the [report](./Assets/EgocentricASL.pdf).
+This project is focused on converting ASL instructional videos into a series of keypoints that are modified to be from the user's perspective. Read more about it in the [report](./EgocentricASL.pdf).
 
 ## Contents
 
